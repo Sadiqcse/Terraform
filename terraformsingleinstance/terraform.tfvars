@@ -1,5 +1,5 @@
-aws_access_key = "AKIA3KCUYPSBDGRYVD5A"
-aws_secret_key = "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"
+aws_access_key = "AAAAAA"
+aws_secret_key = "BBBBBB"
 aws_region = "us-east-1"
 azs = {
   description = "Run the EC2 Instances in these Availability Zones"
