@@ -23,4 +23,5 @@ resource "aws_internet_gateway" "default" {
 	tags = {
         Name = "${var.IGW_name}"
     }
-}
+}   
+
